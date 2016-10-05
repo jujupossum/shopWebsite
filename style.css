@@ -1,0 +1,58 @@
+
+.bufferLarge{
+    padding-bottom: 150px;
+}
+
+.bufferMedium{
+    padding-bottom: 100px;
+}
+
+.bufferSmall{
+    padding-bottom: 50px;
+}
+
+.carousel-inner{
+    max-height:500px;
+}
+
+#footer {
+    left:0px;
+    bottom:0px;
+    height:50px;
+    width:100%;
+    background:#1a1a1a;
+    color: grey;
+    padding-top: 10px;
+}
+
+.item{
+    width:100%;
+}
+
+#indexImage {
+    background-image: url("/images/indexImage.jpg");
+    height: 500px;
+}
+
+body{
+}
+
+#map {
+    height: 500px;
+    width: 100%;
+}
+
+input{
+    border:solid grey 2px;
+}
+
+.inputSmall{
+    padding: 10px 30px 10px 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.inputLarge{
+    border:solid grey 2px;
+    padding: 10px;
+}
